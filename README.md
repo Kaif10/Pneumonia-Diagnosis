@@ -1,7 +1,7 @@
 # Pneumonia-Diagnosis
 Detecting Pneumonia with CNN
 
-# Main Code: Pneumonia-Diagnosis.ipynb
+# Main Code: Pneumonia_Diagnosis.ipynb
 
 Pneumonia Diagnosis on a small and challenging dataset with three different models.
 1. Fine tuning.

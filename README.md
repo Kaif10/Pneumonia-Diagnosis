@@ -5,7 +5,11 @@ Detecting Pneumonia with CNN
 
 Pneumonia Diagnosis on a small and challenging dataset with three different models.
 1. Fine tuning.
+Training all the layers once again for better accuracy.
+
 2. Transfer learning.
+Training only the new added fully connected layers of our network.
+
 3. Depthwise Convolutional Network.
 
 

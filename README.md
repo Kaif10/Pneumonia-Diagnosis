@@ -11,9 +11,9 @@ Training all the layers once again for better accuracy.
 Training only the new added fully connected layers of our network.
 
 3. Depthwise Convolutional Network.
+My own architecture
 
-
-The famous VGG-16 network that I used for first two models for finetuning and transfer learning.
+The famous VGG-16 network that I used for first two models for finetuning and transfer learning respectively.
 ![VGG-16 ](https://github.com/Kaif10/Pneumonia-Diagnosis/blob/master/vgg16.jpg)
 
 ![VGG-16 ](https://github.com/Kaif10/Pneumonia-Diagnosis/blob/master/img.png)

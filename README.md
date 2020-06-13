@@ -15,3 +15,7 @@ Training only the new added fully connected layers of our network.
 
 The famous VGG-16 network that I used for first two models for finetuning and transfer learning.
 ![VGG-16 ](https://github.com/Kaif10/Pneumonia-Diagnosis/blob/master/vgg16.jpg)
+
+![VGG-16 ](https://github.com/Kaif10/Pneumonia-Diagnosis/blob/master/img.png)
+
+

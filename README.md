@@ -1,22 +1,25 @@
 # Pneumonia-Diagnosis
-Detecting Pneumonia with CNN
+Detecting Pneumonia with Convolutional Neural Networks
 
-# Main Code: Pneumonia_Diagnosis.ipynb
+### Main Code: Pneumonia_Diagnosis.ipynb
 
 Detecting Pneumonia Diagnosis on a small and challenging dataset that contains Xray iamges of Patients with three different Convolutional models.
 
 **1. Fine tuning.**
+
 Training all the base-layers of VGG-16 once again + the newly added fully connected layers for better accuracy.
 
 Results: 1. Val_accuracy: 0.8750  2.Evaluate  on Test data: 0.9359
 
 
 **2. Transfer learning.**
+
 Training only the newly added fully connected layers of our network.
 
 Results: 1. Val_accuracy: 0.9375  2. Evaluate on Test data: 0.9295
 
 **3. Depthwise Convolutional Network.**
+
 Training with our own depthwise Convolutional Network
 
 Results: 1. Val_accuracy: 0.8750  2. Evaluate  on Test data: 0.8958

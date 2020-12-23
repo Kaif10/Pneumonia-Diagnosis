@@ -1,7 +1,9 @@
 # Pneumonia-Diagnosis
 Detecting Pneumonia with Convolutional Neural Networks
 
-### Main Code: Pneumonia_Diagnosis.ipynb
+[Problem Link](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
+
+### Main Code: [Pneumonia_Diagnosis.ipynb](https://github.com/Kaif10/Pneumonia-Diagnosis/blob/master/Pneumonia_Diagnosis.ipynb)
 
 Detecting Pneumonia Diagnosis on a small and challenging dataset that contains Xray iamges of Patients with three different Convolutional models.
 
@@ -29,7 +31,7 @@ The famous VGG-16 network that I used for first two models for finetuning and tr
 ![VGG-16 ](https://github.com/Kaif10/Pneumonia-Diagnosis/blob/master/vgg16.jpg)
 
 
-In the below image, the network on the left is an example of the fine-tuned model.
+In the below image, the network on the right is an example of the fine-tuningka.
 ![VGG-16 ](https://github.com/Kaif10/Pneumonia-Diagnosis/blob/master/img.png)
 
 

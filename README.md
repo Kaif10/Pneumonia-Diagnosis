@@ -5,7 +5,7 @@ Detecting Pneumonia with Convolutional Neural Networks
 
 ### Main Code: [Pneumonia_Diagnosis.ipynb](https://github.com/Kaif10/Pneumonia-Diagnosis/blob/master/Pneumonia_Diagnosis.ipynb)
 
-Detecting Pneumonia Diagnosis on a small and challenging dataset that contains Xray iamges of Patients with three different Convolutional models.
+Detecting Pneumonia Diagnosis on a small and challenging dataset that contains Xray images of Patients with three different Convolutional models.
 
 **1. Fine tuning.**
 
